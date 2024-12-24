@@ -46,6 +46,7 @@ print(password)
 # # Process finished with exit code 0
 
 
+# Hard attempt 02
 passwordList = []
 for eletter in range(0, nr_letters):
     passwordList.append(random.choice(letters))
